@@ -18,13 +18,13 @@
 
 #define OLED_RESET -1
 
-const char* ssid = ""; // YOUR SSID GOES HERE
+const char* ssid = ""; // YOUR WIFI SSID GOES HERE
 
-const char* password = ""; // your password 
+const char* password = ""; // YOUR WIFI PASSWORD GOES HERE 
 
-String apiKey = ""; //put yours here
+String apiKey = ""; //YOUR THINGSPEAK API KEY GOES HERE 
 
-String apiKey2 = "";//put yours here
+String apiKey2 = "";// YOUR WHATSAPP CALLMEBOT API KEY GOES HERE
 
 String phoneNumber = ""; //put yours
 
